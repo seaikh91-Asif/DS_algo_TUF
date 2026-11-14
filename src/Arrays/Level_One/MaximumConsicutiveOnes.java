@@ -1,5 +1,4 @@
-package Arrays;
-import java.util.Arrays;
+package Arrays.Level_One;
 
 public class MaximumConsicutiveOnes {
     static int maximumconsicuctiveones(int [] arrr){

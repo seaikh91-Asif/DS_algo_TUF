@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Level_One;
 
 public class LinearSearch {
     static int LinearSearch(int [] arr, int n){
