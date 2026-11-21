@@ -1,4 +1,4 @@
-package BinarySearch;
+package BinarySearch.One;
 
 public class CountNumberOfOccurance {
     static int firstOccurence(int [] arr, int target){
