@@ -36,5 +36,7 @@ public class FindNthRoot {
 
 
         System.out.printf("%dth root of %d is: %.6f%n", n, m, result);
+        System.out.printf("%dth root of %d is: %.6f%n", n, m, result);  System.out.printf("%dth root of %d is: %.6f%n", n, m, result);
+
     }
 }
